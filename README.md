@@ -8,7 +8,4 @@ Criação de um APP em React Native no Framework EXPO, testado em ANDROID.
 - TouchableOpacity;
 - Entre outros.
 
-## Imagens
-- Nas próximas Atualizações...
-
 
