@@ -18,17 +18,17 @@ const GoalInput = props =>{
         <Modal visible={props.visible} animationType="slide"> 
             <View style={styles.inputContainer}>
                 <TextInput 
-                placeholder="TODO List"
+                placeholder="Adicionar Meta"
                 style={styles.input}
                 onChangeText={goalInputHandler}
                 value={enteredGoal}
                 />
                 <View style={styles.buttonContainer}>
                     <View style={styles.button}>
-                        <Button title="Cancel" color="red" onPress={props.onCancel}/>
+                        <Button title="Cancelar" color="red" onPress={props.onCancel}/>
                     </View>
                     <View style={styles.button}>
-                        <Button title="ADD" onPress={addGoalHandler}/>
+                        <Button title="Adicionar" onPress={addGoalHandler}/>
                     </View> 
                 </View>
             </View>
