@@ -1,4 +1,4 @@
-# Modelo TODO List
+# Modelo TODO List :octocat:
 Criação de um APP em React Native no Framework EXPO, testado em ANDROID.
 
 ## O que você vera neste Projeto 
